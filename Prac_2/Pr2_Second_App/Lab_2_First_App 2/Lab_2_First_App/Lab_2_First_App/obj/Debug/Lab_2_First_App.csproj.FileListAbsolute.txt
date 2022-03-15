@@ -1,0 +1,61 @@
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.AssemblyReference.cache
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.SuggestedBindingRedirects.cache
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+D:\Labs\Prac_2\Pr2_Second_App\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.AssemblyReference.cache
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+D:\Download\Stepan\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.AssemblyReference.cache
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.SuggestedBindingRedirects.cache
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+D:\Labs\Prac_2\Lab_2_First_App\Lab_2_First_App 2\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb

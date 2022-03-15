@@ -1,0 +1,54 @@
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\Lab1.exe
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\Lab1.pdb
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.exe
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.pdb
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\InformationWindow.exe
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\InformationWindow.pdb
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\bin\Debug\InformationWindow.exe.config
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.MainManu.resources
+C:\Users\masha\Desktop\1 курс\ОП\2 семестр лабы\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.exe
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.Calculator.resources
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.TicTacToe.resources
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.Information.resources
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\bin\Debug\Lab1.exe
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\4labs\Downloads\Telegram Desktop\L1\L1\Lab1\obj\Debug\Lab1.MainMenu.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.Calculator.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.TicTacToe.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.Information.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.MainMenu.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\masha\Desktop\1 курс\ОП\Lab1\Lab1\obj\Debug\Lab1.AboutMe.resources
+D:\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.AboutMe.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.Calculator.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.TicTacToe.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.Information.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.MainMenu.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb

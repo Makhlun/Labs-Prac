@@ -1,0 +1,62 @@
+﻿<Window x:Class="Practic.Training"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practic"
+        mc:Ignorable="d"
+        Title="Training Lager" Height="450" Width="557" Icon="/Label.jpg" FontFamily="Viner Hand ITC" FontSize="36" ResizeMode="NoResize" AutomationProperties.Name="Train" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Center" Width="576" Height="434" VerticalAlignment="Center">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF65CED9"/>
+                <GradientStop Color="#FFD14CFF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="33.759"/>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="14*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="267*"/>
+            <ColumnDefinition Width="187*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Back" Grid.Column="1" HorizontalAlignment="Center" Height="63" Grid.Row="13" VerticalAlignment="Center" Width="236" Background="{x:Null}" Click="Back_Click" AutomationProperties.Name="BackBtn"/>
+        <Label Content="Кодове слово:&#xD;&#xA;" Grid.Column="1" HorizontalAlignment="Left" Height="39" Grid.Row="3" VerticalAlignment="Center" Width="227" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Normal" FontStyle="Italic" Margin="2,0,0,0"/>
+        <Label x:Name="codeword" Content="rfpsjudkl" Grid.Column="2" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="3" VerticalAlignment="Center" Height="47" Width="206" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Bold" FontStyle="Normal" AutomationProperties.Name="CodeWord" Grid.ColumnSpan="2" Background="{x:Null}" Foreground="#FF4B1CA3"/>
+        <Label Content="Кількість введених символів:" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="39" Grid.Row="5" VerticalAlignment="Center" Width="413" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Normal" FontStyle="Italic"/>
+        <Label Content="" Grid.Column="3" HorizontalAlignment="Left" Height="39" Margin="104,0,0,0" Grid.Row="5" VerticalAlignment="Center" Width="46" FontSize="30" AutomationProperties.Name="CountOfSimb"/>
+        <Label Content="Label"/>
+        <Label Content="Кількість спроб:" Grid.Column="1" HorizontalAlignment="Center" Height="39" Grid.Row="7" VerticalAlignment="Center" Width="266" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Normal" FontStyle="Italic"/>
+        <TextBox x:Name="InputedTXT" Grid.Column="1" HorizontalAlignment="Center" Height="55" Grid.RowSpan="3" Grid.Row="10" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Background="#FFC5ACF4" FontFamily="Bradley Hand ITC" FontSize="30" FontWeight="Normal" FontStyle="Italic" Margin="0,14,0,0" AutomationProperties.Name="InputTB" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Поле для введення:" Grid.Column="1" HorizontalAlignment="Center" Height="39" Grid.Row="9" VerticalAlignment="Center" Width="280" FontSize="30" FontFamily="Bradley Hand ITC" FontWeight="Normal" FontStyle="Italic"/>
+        <Label Content="№ спроби" Grid.Column="2" HorizontalAlignment="Center" Height="43" Margin="0,10,0,0" Grid.Row="10" VerticalAlignment="Top" Width="159" FontSize="30" FontWeight="Normal" FontStyle="Italic" Grid.RowSpan="2"/>
+        <Label Content="" Grid.Column="3" HorizontalAlignment="Left" Height="43" Margin="0,10,0,0" Grid.RowSpan="2" Grid.Row="10" VerticalAlignment="Top" Width="37" FontSize="30"/>
+        <Label x:Name="NumAttemp" Content="" Grid.Column="3" HorizontalAlignment="Left" Height="43" Margin="0,10,0,0" Grid.RowSpan="2" Grid.Row="10" VerticalAlignment="Top" Width="37" FontSize="30" AutomationProperties.Name="CountAttampt"/>
+        <Label x:Name="lc" Content="0" Grid.Column="2" HorizontalAlignment="Left" Height="59" Margin="148,0,0,0" Grid.Row="5" VerticalAlignment="Center" Width="58" FontSize="30" AutomationProperties.Name="CountInputet" RenderTransformOrigin="0.499,0.265" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="AttampCount" Grid.Column="2" HorizontalAlignment="Left" Height="39" Grid.Row="7" VerticalAlignment="Center" Width="50" FontSize="30" SelectedValuePath="3" Text="3 4 5 6 7" Background="#FFB771FF" SelectedIndex="0" AutomationProperties.Name="CountAttamp">
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+        </ComboBox>
+        <Label Content="Training Lager" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Center" Height="87" Margin="0,5,0,0" Grid.RowSpan="4" VerticalAlignment="Top" Width="454"/>
+
+    </Grid>
+</Window>
